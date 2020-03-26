@@ -1,0 +1,19 @@
+{
+  "name": "computersupportspecialist.co.uk",
+  "version": "1.0.0",
+  "description": "Computer Support Specialist Wordpress Theme with NPM SASS Gulp and More",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nasimcss/computersupportspecialist.co.uk.git"
+  },
+  "author": "Nasim Javaid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nasimcss/computersupportspecialist.co.uk/issues"
+  },
+  "homepage": "https://github.com/nasimcss/computersupportspecialist.co.uk#readme"
+}
