@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/nasimcss/computersupportspecialist.co.uk/issues"
   },
-  "homepage": "https://github.com/nasimcss/computersupportspecialist.co.uk#readme"
+  "homepage": "https://github.com/nasimcss/computersupportspecialist.co.uk#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2"
+  }
 }
